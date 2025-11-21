@@ -1,0 +1,5 @@
+tax_id	abundance	species	genus	family	order	class	phylum	clade	superkingdom	subspecies	species subgroup	species group
+257003	0.5	Sphingomonas phyllosphaerae	Sphingomonas	Sphingomonadaceae	Sphingomonadales	Alphaproteobacteria	Proteobacteria		Bacteria			
+1282439	0.5	Paracoccus communis	Paracoccus	Rhodobacteraceae	Rhodobacterales	Alphaproteobacteria	Proteobacteria		Bacteria			
+unmapped	0.0											
+mapped_unclassified	0.0											

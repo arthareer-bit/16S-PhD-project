@@ -1,0 +1,6 @@
+tax_id	abundance	species	genus	family	order	class	phylum	clade	superkingdom	subspecies	species subgroup	species group
+34006	0.3333333333333333	Paracoccus thiocyanatus	Paracoccus	Rhodobacteraceae	Rhodobacterales	Alphaproteobacteria	Proteobacteria		Bacteria			
+2594473	0.3333333333333333	Sphingomonas sp. AE3	Sphingomonas	Sphingomonadaceae	Sphingomonadales	Alphaproteobacteria	Proteobacteria		Bacteria			
+2420305	0.3333333333333333	Acinetobacter sp. FDAARGOS_560	Acinetobacter	Moraxellaceae	Pseudomonadales	Gammaproteobacteria	Proteobacteria		Bacteria			
+unmapped	0.0											
+mapped_unclassified	0.0											

@@ -1,0 +1,5 @@
+tax_id	abundance	species	genus	family	order	class	phylum	clade	superkingdom	subspecies	species subgroup	species group
+61645	0.4992020355705446	Enterobacter asburiae	Enterobacter	Enterobacteriaceae	Enterobacterales	Gammaproteobacteria	Proteobacteria		Bacteria			Enterobacter cloacae complex
+550	0.5007979644294555	Enterobacter cloacae	Enterobacter	Enterobacteriaceae	Enterobacterales	Gammaproteobacteria	Proteobacteria		Bacteria			Enterobacter cloacae complex
+unmapped	0.0											
+mapped_unclassified	0.0											

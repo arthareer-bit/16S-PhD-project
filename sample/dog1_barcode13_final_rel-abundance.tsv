@@ -1,0 +1,5 @@
+tax_id	abundance	species	genus	family	order	class	phylum	clade	superkingdom	subspecies	species subgroup	species group
+54299	0.5	Chroococcidiopsis thermalis	Chroococcidiopsis	Chroococcidiopsidaceae	Chroococcidiopsidales		Cyanobacteria	Terrabacteria group	Bacteria			
+1817965	0.5	Skermanella rosea	Skermanella	Rhodospirillaceae	Rhodospirillales	Alphaproteobacteria	Proteobacteria		Bacteria			
+unmapped	0.0											
+mapped_unclassified	0.0											

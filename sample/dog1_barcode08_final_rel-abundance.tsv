@@ -1,0 +1,9 @@
+tax_id	abundance	species	genus	family	order	class	phylum	clade	superkingdom	subspecies	species subgroup	species group
+293	0.18181818181937406	Brevundimonas diminuta	Brevundimonas	Caulobacteraceae	Caulobacterales	Alphaproteobacteria	Proteobacteria		Bacteria			
+94625	0.2727272727272727	Ochrobactrum intermedium	Ochrobactrum	Brucellaceae	Rhizobiales	Alphaproteobacteria	Proteobacteria		Bacteria			
+330920	0.09090909090909091	Sphingomonas azotifigens	Sphingomonas	Sphingomonadaceae	Sphingomonadales	Alphaproteobacteria	Proteobacteria		Bacteria			
+266125	0.18181818181818182	Phenylobacterium koreense	Phenylobacterium	Caulobacteraceae	Caulobacterales	Alphaproteobacteria	Proteobacteria		Bacteria			
+2054173	0.18181818181818182	Candidatus Coxiella mudrowiae	Coxiella	Coxiellaceae	Legionellales	Gammaproteobacteria	Proteobacteria		Bacteria			
+1125965	0.09090909090789867	Brevundimonas abyssalis	Brevundimonas	Caulobacteraceae	Caulobacterales	Alphaproteobacteria	Proteobacteria		Bacteria			
+unmapped	0.0											
+mapped_unclassified	0.0											

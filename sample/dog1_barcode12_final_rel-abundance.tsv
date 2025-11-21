@@ -1,0 +1,9 @@
+tax_id	abundance	species	genus	family	order	class	phylum	clade	superkingdom	subspecies	species subgroup	species group
+1795310	0.1111111111111111	Paracoccus acridae	Paracoccus	Rhodobacteraceae	Rhodobacterales	Alphaproteobacteria	Proteobacteria		Bacteria			
+160699	0.2222222222222222	Agrobacterium larrymoorei	Agrobacterium	Rhizobiaceae	Rhizobiales	Alphaproteobacteria	Proteobacteria		Bacteria			
+550	0.1111111111111111	Enterobacter cloacae	Enterobacter	Enterobacteriaceae	Enterobacterales	Gammaproteobacteria	Proteobacteria		Bacteria			Enterobacter cloacae complex
+293	0.3333333333333333	Brevundimonas diminuta	Brevundimonas	Caulobacteraceae	Caulobacterales	Alphaproteobacteria	Proteobacteria		Bacteria			
+257003	0.1111111111111111	Sphingomonas phyllosphaerae	Sphingomonas	Sphingomonadaceae	Sphingomonadales	Alphaproteobacteria	Proteobacteria		Bacteria			
+94625	0.1111111111111111	Ochrobactrum intermedium	Ochrobactrum	Brucellaceae	Rhizobiales	Alphaproteobacteria	Proteobacteria		Bacteria			
+unmapped	0.0											
+mapped_unclassified	0.0											
