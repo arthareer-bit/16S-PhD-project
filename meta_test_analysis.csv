@@ -1,0 +1,15 @@
+﻿sample,geographical_region,host,tick,stage
+dog1_barcode1,1,dog,R.sanguneus,engorge
+dog1_barcode2,1,dog,R.sanguneus,female
+dog1_barcode3,1,cattle,R.microplus,engorge
+dog1_barcode4,1,cattle,R.microplus,engorge
+dog1_barcode5,2,dog,R.sanguneus,male
+dog1_barcode6,2,dog,R.sanguneus,female
+dog1_barcode7,2,cattle,R.microplus,engorge
+dog1_barcode8,2,cattle,R.microplus,nymph
+dog1_barcode9,3,dog,R.sanguneus,male
+dog1_barcode10,3,dog,R.sanguneus,nymph
+dog1_barcode11,3,cattle,R.microplus,nymph
+dog1_barcode12,4,dog,R.sanguneus,engorge
+dog1_barcode13,4,dog,R.sanguneus,female
+dog1_barcode14,4,cattle,R.microplus,nymph
