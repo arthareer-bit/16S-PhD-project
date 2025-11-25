@@ -1,6 +1,0 @@
-tax_id	abundance	species	genus	family	order	class	phylum	clade	superkingdom	subspecies	species subgroup	species group
-419475	0.3333333333333333	Ochrobactrum pseudogrignonense	Ochrobactrum	Brucellaceae	Rhizobiales	Alphaproteobacteria	Proteobacteria		Bacteria			
-881260	0.3728823926322105	Enterobacter bugandensis	Enterobacter	Enterobacteriaceae	Enterobacterales	Gammaproteobacteria	Proteobacteria		Bacteria			
-158836	0.2937842740344561	Enterobacter hormaechei	Enterobacter	Enterobacteriaceae	Enterobacterales	Gammaproteobacteria	Proteobacteria		Bacteria			Enterobacter cloacae complex
-unmapped	0.0											
-mapped_unclassified	0.0											
